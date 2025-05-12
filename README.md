@@ -1,103 +1,43 @@
-# 🧑‍💻 HỌ VÀ TÊN
+# 🚀 **Tran Hoang Hiep**  
+🌍 *67/6, Bui Van Ba Street, Tan Thuan Dong, District 7, Ho Chi Minh City*  
+📧 [conghuahiep@gmail.com](mailto:conghuahiep@gmail.com)  
+📞 **0896363808**  
+🎯 *Intelligent Technology Enthusiast*
 
-- 📞 09xxxxxxxx  
-- 📧 yourname@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
-- 📍 Quận X, TP.HCM
 
----
+## 🎓 **Education**
+📅 2022.10 - NOW | 🏫 **Open University** | 🎯 *Intelligent Technology*  
+📅 2019.10 - 2022.5 | 🏫 **Phan Chu Trinh High School*
 
-## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+## 💼 **Experience**
+🚀 *Currently open to new opportunities!*
 
----
 
-## 🎓 HỌC VẤN
 
-**Trường Đại học Mở TP.HCM**  
-_Bachelor of Science in Computer Science_  
-📅 2021 – nay  
-- GPA: 3.5 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
+## 🔥 **Skills**
+### 💻 **Front-End**
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (★★★★☆)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) (★★★★☆)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) (★★★★☆)
+- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) (★★★★☆)
 
----
+### 🖥️ **Back-End**
+- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) (★★★★☆)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (★★★★☆)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) (★★★☆☆)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) (★★★☆☆)
+- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) (★★★☆☆)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) (★★★☆☆)
 
-## 🛠️ KỸ NĂNG
+### 🗄 **Database**
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) (★★★☆☆)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) (★★★☆☆)
 
-### 🔧 Công nghệ và Ngôn ngữ lập trình
+### ⚙ **Others**
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) (★★★☆☆)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) (★★★☆☆)
 
-| Kỹ năng                  | Biểu tượng | Mức độ       |
-|--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐⭐☆        |
-| C++                      | 💻         | ⭐⭐⭐⭐☆        |
-| Java                     | ☕         | ⭐⭐⭐☆☆        |
-| HTML/CSS                 | 🌐         | ⭐⭐⭐⭐☆        |
-| JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
-| MySQL                    | 📊         | ⭐⭐⭐☆☆        |
-| Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
-| Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
 
-### 🧪 Công cụ & Thư viện
-
-- 🔬 Pandas, Matplotlib, Seaborn cho phân tích dữ liệu  
-- 🧠 Scikit-learn cho mô hình học máy cơ bản  
-- 🌍 Flask cho phát triển web backend đơn giản  
-- ✅ Pytest cho kiểm thử tự động
-
----
-
-## 🧪 CÁC BADGES CÔNG NGHỆ
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
----
-
-## 💼 DỰ ÁN / KINH NGHIỆM
-
-### 📌 Student Management System – Cá nhân  
-**Công nghệ:** Python, Tkinter, SQLite  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu  
-- Áp dụng OOP và CRUD trong mô hình MVC cơ bản  
-
-### 🌐 Tech Product Landing Page – Nhóm 3 người  
-**Công nghệ:** HTML, CSS, JavaScript  
-- Xây dựng giao diện landing page giới thiệu sản phẩm công nghệ  
-- Thiết kế responsive UI, form liên hệ, triển khai GitHub Pages  
-
-### 🔍 Smart OCR System (Demo)  
-**Công nghệ:** Python, OpenCV, Flask  
-- Nhận dạng văn bản từ ảnh in ấn  
-- Tiền xử lý ảnh + tích hợp OCR engine (Tesseract)
-
----
-
-## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
-
-- Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)  
-- Tình nguyện viên "Hour of Code" tại trường THPT chuyên Lê Hồng Phong  
-- Viết blog chia sẻ kiến thức Python & Data Science (2024 – nay)
-
----
-
-## 🏆 CHỨNG CHỈ & GIẢI THƯỞNG
-
-- ✅ Chứng chỉ “Python for Everybody” – Coursera (2023)  
-- 🥈 Top 10 Code Battle – Trường ĐH Mở TP.HCM (2024)  
-- 🗣 IELTS 6.5 – British Council (2024)
-
----
-
-## 🌍 NGÔN NGỮ & SỞ THÍCH
-
-- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật tốt)  
-- 🧠 Sở thích: AI & Deep Learning, viết blog kỹ thuật, đọc sách công nghệ  
-
----
-
-> 📌 *Người giới thiệu sẽ cung cấp khi có yêu cầu.*
+## 🏆 **Certificates & Awards**
+📜 **CS50x - Harvard University**  
